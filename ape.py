@@ -4,7 +4,7 @@ import streamlit as st
 import google.generativeai as genai
 from PIL import Image
 
-# Load environment variables
+# Load environment variables gggyy
 load_dotenv()
 
 # Get API key from environment variables
